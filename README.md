@@ -9,32 +9,16 @@ Findy株式会社 / プロダクトマネジメント室 Freelance企画
 
 ## About
 
-エージェントベースのフリーランスエンジニアマッチングサービスで、プロダクトマネージャーをしています。
+「データを分析する」より「データが意思決定と行動に繋がる状態を作る」ことに軸足を置いたPdMです。
 
-主な関心は、データ・業務オペレーション・UI・意思決定を接続し、継続的に改善できるプロダクトや業務システムを設計することです。
-
-データ分析や機械学習の経験を背景に、現在は Product Operations、Workflow Automation、LLM/AI を活用した業務支援、User / Operator / System 間のデータフロー設計に取り組んでいます。
+DS出身の視点から、KPI定義・ログ設計・業務フロー・UIを横断して整え、組織が継続的に改善できる状態を設計します。
 
 ---
 
 ## Current Role
 
-**Findy株式会社**  
-プロダクトマネジメント室 Freelance企画  
-プロダクトマネージャー  
-2024年8月 -
-
-担当サービスは、エージェントベースのフリーランスエンジニアマッチングサービスです。
-
-主に以下の領域を担当しています。
-
-- 業務Ops改善
-- 業務UI改善
-- 自動化
-- データフロー設計
-- LLM/AIを活用した業務支援
-- Operator UX改善
-- Human-in-the-loopな業務設計
+**Findy株式会社** — プロダクトマネージャー（2024年8月〜）  
+エージェントベースのフリーランスエンジニアマッチングサービスを担当。業務Ops改善・LLM/AI業務組み込み・Operator UX改善・データフロー設計に従事。
 
 ---
 
@@ -42,79 +26,26 @@ Findy株式会社 / プロダクトマネジメント室 Freelance企画
 
 ### UserShare自動作成
 
-面談後にエージェントが作成するユーザー情報サマリーを、フォーム入力とスキルシートの生成AI読み込みによって自動作成する仕組みを設計。
+**課題：** 面談後のOperator手作業による情報整理が業務ボトルネックになっていた  
+**結果：** フォーム入力 + 生成AI読み取り + Human-in-the-loopフローで自動化し、入力負荷・フォーマット揺れを削減
 
-- 非構造情報の構造化
-- Operator入力負荷の削減
-- 情報共有の標準化
-- Human-in-the-loopな業務フロー設計
+### 業務UIのActiveAdmin→内製UI移行
 
-### 業務UIの内製UI移行
-
-ActiveAdmin上の業務UIを内製UIへ移行し、あわせてOpsフローを見直し。
-
-- Operator UX改善
-- 業務状態管理とUIの整合性改善
-- 業務フローとプロダクトUIの接続
+**課題：** 業務状態と画面が乖離しており、Operatorが次のアクションを取りにくかった  
+**結果：** 操作棚卸しから業務状態設計・UI移行まで推進し、継続改善可能な基盤を構築
 
 ### UserUI - AdminUI のデータフロー統合
 
-ユーザーアクションとOperatorアクションをシームレスに結合するデータフローを設計。
-
-- User / Operator / System 間のデータ接続改善
-- 業務オペレーションの連続性向上
-- ユーザー推薦数 YoY 90% 成長に寄与
+**課題：** User/Operator/System間で情報が分断され、推薦オペレーションの品質に影響していた  
+**結果：** データフロー接続設計を推進し、ユーザー推薦数 YoY 90% 成長に寄与
 
 ---
 
 ## Previous Experience
 
-**TDSE株式会社**  
-データサイエンティスト / プロジェクトマネージャー  
-2019年8月 - 2024年7月
-
-以下の領域で、分析・機械学習・プロジェクトマネジメントを担当しました。
-
-- 人材領域のレコメンドロジック開発
-- 小売流通領域のダイナミックプライシング
-- 飲食広告・飲食店オーダーアプリのレコメンド開発
-- SaaS営業分析支援
-- LLM R&Dプロジェクトマネジメント
-- 分析チーム立ち上げ、PMO、チームマネジメント
+**TDSE株式会社** — データサイエンティスト / プロジェクトマネージャー（2019年8月〜2024年7月）  
+人材・小売・飲食・SaaS領域でレコメンド・ダイナミックプライシング・LLM R&D PMを担当。分析チームの立ち上げ（1→6名）とマネジメント体制の設計も経験。
 
 ---
 
-## Skills / Tools
-
-- Product Management
-- Product Operations
-- Data Science
-- Recommendation Systems
-- Workflow Automation
-- LLM / AI活用
-- Human-in-the-loop Systems
-- Decision Support Systems
-- Data Flow Design
-- Operator UX
-
-### Technical Stack
-
-- Python
-- SQL
-- BigQuery
-- Redshift
-- S3
-- R
-- Go
-- TypeScript
-- GitHub Actions
-
-### Tools
-
-- Claude Code
-- Codex
-- Gemini CLI
-- Notion
-- Jira
-- Google Slides / PowerPoint
-- Google Spreadsheet / Excel
+詳細は **[職務経歴書 / Resume](./resume/README.md)** をご覧ください。
