@@ -3,6 +3,8 @@
 Product Manager / Data Scientist  
 Findy株式会社 / プロダクトマネジメント室 Freelance企画
 
+**[職務経歴書 / Resume](./resume/README.md)**
+
 ---
 
 ## About
