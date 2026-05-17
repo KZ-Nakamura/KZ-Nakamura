@@ -353,17 +353,21 @@ LLMを用いたタギングロジックR&Dプロジェクト、および営業�
 
 ### Languages
 
-- Python
-- SQL
-- R
-- Go
-- TypeScript
+| 言語 | 経験 | 習熟度・用途 |
+| --- | --- | --- |
+| Python | 6年6ヶ月 | データ分析・機械学習・数理最適化のコード記述および指示・改修が可能（DS時代〜現在） |
+| SQL | 6年以上 | BigQuery / Redshift での分析集計クエリ運用（DS時代〜現在） |
+| R | 2年6ヶ月 | 統計分析・可視化（DS時代） |
+| Go | 6ヶ月 | Web API 実装経験あり。状況に応じてコード記述・指示が可能（DS時代） |
+| TypeScript | — | コードレビュー・仕様確認レベル（PM業務） |
 
 ### Data Platforms / Infrastructure
 
-- BigQuery
-- Redshift
-- S3
+| ツール | 経験 | 習熟度・用途 |
+| --- | --- | --- |
+| BigQuery | 2年以上 | 分析集計・PoC用途での計算量に配慮したクエリ運用が可能 |
+| Redshift | 1年10ヶ月 | 分析集計・PoC用途での適切なクエリ運用が可能 |
+| S3 | 1年以上 | データ格納・抽出での利用経験あり |
 
 ### Development / Automation
 
@@ -374,12 +378,9 @@ LLMを用いたタギングロジックR&Dプロジェクト、および営業�
 
 ### Business / Collaboration Tools
 
-- Notion
-- Jira
-- Google Slides
-- PowerPoint
-- Google Spreadsheet
-- Excel
+- Notion / Jira
+- Google Slides / PowerPoint
+- Google Spreadsheet / Excel
 
 ---
 
@@ -393,8 +394,6 @@ LLMを用いたタギングロジックR&Dプロジェクト、および営業�
 - Data Flow Design
 - Operator UX
 - Recommendation Systems
-- 業務Ops改善
-- AIを用いた業務支援
 
 ---
 
@@ -405,9 +404,3 @@ LLMを用いたタギングロジックR&Dプロジェクト、および営業�
 特に、User / Operator / System の間で情報がどのように流れ、どこで判断が行われ、どの業務が継続的に改善可能になるかに関心があります。
 
 LLM/AIについても、単体機能として導入するのではなく、業務フロー、確認プロセス、UI、データ構造を含めたシステムとして扱うことを意識しています。
-
----
-
-## Keywords
-
-Product Manager / Data Scientist / Product Operations / Workflow Automation / LLM / AI / Human-in-the-loop / Data Flow Design / Operator UX / Recommendation Systems / Decision Support Systems
